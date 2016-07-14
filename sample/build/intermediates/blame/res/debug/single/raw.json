@@ -10,5 +10,17 @@
     {
         "merged": "C:\\Users\\haozhinan\\Desktop\\androidLib\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\raw\\pull_event.mp3",
         "source": "C:\\Users\\haozhinan\\Desktop\\androidLib\\sample\\sample\\src\\main\\res\\raw\\pull_event.mp3"
+    },
+    {
+        "merged": "C:\\Users\\haozhinan\\Desktop\\androidLib\\Android-PullToRefresh\\sample\\build\\intermediates\\res\\merged\\debug\\raw\\reset_sound.mp3",
+        "source": "C:\\Users\\haozhinan\\Desktop\\androidLib\\Android-PullToRefresh\\sample\\src\\main\\res\\raw\\reset_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\haozhinan\\Desktop\\androidLib\\Android-PullToRefresh\\sample\\build\\intermediates\\res\\merged\\debug\\raw\\pull_event.mp3",
+        "source": "C:\\Users\\haozhinan\\Desktop\\androidLib\\Android-PullToRefresh\\sample\\src\\main\\res\\raw\\pull_event.mp3"
+    },
+    {
+        "merged": "C:\\Users\\haozhinan\\Desktop\\androidLib\\Android-PullToRefresh\\sample\\build\\intermediates\\res\\merged\\debug\\raw\\refreshing_sound.mp3",
+        "source": "C:\\Users\\haozhinan\\Desktop\\androidLib\\Android-PullToRefresh\\sample\\src\\main\\res\\raw\\refreshing_sound.mp3"
     }
 ]
